@@ -1,8 +1,12 @@
 # Ethane: An Asymmetric File System for Disaggregated Persistent Memory
 
+
+
 ## 1. Overview
 
-This repository contains the source code, setup utilities, and test scripts of Ethane: An Asymmetric File System for Disaggregated Persistent Memory.
+This repository contains the source code, setup utilities, and test scripts of *Ethane: An Asymmetric File System for Disaggregated Persistent Memory*.
+
+<img src="figures/ethane.png">
 
 ## 2. Getting Started
 
