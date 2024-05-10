@@ -98,4 +98,4 @@ cli = ethanefs_cli_init(fs, &config);
 ethanefs_mkdir(cli, "/hello-world", mode);
 ```
 
-If you have any questions about Ethane, please contact Miao Cai (miaocai@nuaa.edu.cn).
+If you have any questions about Ethane, please contact Miao Cai (miaocai@nuaa.edu.cn) or Junru Shen (jrshen@hhu.edu.cn)
