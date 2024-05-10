@@ -1,0 +1,3 @@
+pmem_pool_file: "/dev/dax0.0"
+pmem_pool_size_mb: 102400
+cmem_pool_size_kb: 16

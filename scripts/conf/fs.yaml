@@ -1,0 +1,12 @@
+dmm:
+  pmem_initial_alloc_size_mb: 8192
+
+sharedfs:
+  namespace_kv_size_mb: 2048
+  block_mapping_kv_size_mb: 2048
+  interval_node_nr_blks: [64, 512, 262144]
+  kv_nr_shards: 256
+
+logger:
+  arena_nr_logs: 1
+  max_nr_logs: 80000000
