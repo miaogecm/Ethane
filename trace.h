@@ -1,9 +1,5 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
- *
  * ETHANE Tracing Subsystem
- *
- * Hohai University
  */
 
 #undef TRACEPOINT_PROVIDER

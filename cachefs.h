@@ -1,6 +1,4 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
- *
  *   CacheFS is a coherent, scalable compute-node-side cache layer
  * for ETHANE. For every FS client, it provides a partial FS view
  * of the global namespace. It caches the latest / hottest FS data.
@@ -17,7 +15,6 @@
  *     The file mapping cache is organized as an AVL-based interval
  *     tree. (bm cache)
  *
- * Hohai University
  */
 
 #ifndef ETHANE_CACHEFS_H

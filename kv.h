@@ -1,5 +1,4 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
  *
  * Data-Plane Key-Value Interface
  * The data-plane key-value supports:
@@ -10,7 +9,6 @@
  *
  * You should guarantee that values are unique!
  *
- * Hohai University
  */
 
 #ifndef ETHANE_KV_H

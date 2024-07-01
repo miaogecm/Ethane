@@ -1,9 +1,5 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
- *
  * Remote File System
- *
- * Hohai University
  */
 
 #ifndef ETHANE_SHAREDFS_H

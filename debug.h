@@ -1,9 +1,5 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
- *
  * Debug Facilities
- *
- * Hohai University
  */
 
 #ifndef ETHANE_DEBUG_H

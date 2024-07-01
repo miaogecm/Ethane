@@ -1,9 +1,5 @@
 /*
-* Disaggregated Persistent Memory File System (ETHANE)
- *
  * Random Generator
- *
- * Hohai University
  */
 
 #ifndef ETHANE_RAND_H

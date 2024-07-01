@@ -1,9 +1,3 @@
-/*
- * Disaggregated Persistent Memory File System (ETHANE)
- *
- * Hohai University
- */
-
 #ifndef ETHANE_OPLOGGER_H
 #define ETHANE_OPLOGGER_H
 

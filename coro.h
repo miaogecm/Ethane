@@ -1,9 +1,6 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
- *
  * Coroutine Library based on libaco
  *
- * Hohai University
  */
 
 #ifndef ETHANE_CORO_H

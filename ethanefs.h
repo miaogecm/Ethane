@@ -1,9 +1,5 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
- *
  * ETHANE User-Space Library
- *
- * Hohai University
  */
 
 #ifndef ETHANE_LIB_H

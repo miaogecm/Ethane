@@ -1,9 +1,5 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
- *
  * DPM-friendly Shared Log optimized for Concurrency and Persistence
- *
- * Hohai University
  */
 
 #ifndef ETHANE_LOGGER_H

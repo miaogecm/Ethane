@@ -1,6 +1,22 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
+ * Copyright 2023 Regents of Nanjing University of Aeronautics and Astronautics and 
+ * Hohai University, Miao Cai <miaocai@nuaa.edu.cn> and Junru Shen <jrshen@hhu.edu.cn>
  *
+ * This program is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License as published by the Free 
+ * Software Foundation, either version 3 of the License, or (at your option)
+ * any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <https://www.gnu.org/licenses/>.
+ */
+
+/*
  *   CacheFS is a coherent, scalable compute-node-side cache layer
  * for ETHANE. For every FS client, it provides a partial FS view
  * of the global namespace. It caches the latest / hottest FS data.
@@ -16,8 +32,6 @@
  *     its corresponding data block's remote pointer and block size.
  *     The file mapping cache is organized as an AVL-based interval
  *     tree. (bm cache)
- *
- * Hohai University
  */
 
 #include <sys/stat.h>

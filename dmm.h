@@ -1,9 +1,5 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
- *
  * Disaggregated Persistent Memory Management
- *
- * Hohai University
  */
 
 #ifndef ETHANE_DMM_H

@@ -1,5 +1,4 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
  *
  * RDMA-based Disaggregated Persistent Memory Pool Implementation
  *
@@ -8,7 +7,6 @@
  * (2) RPC interfaces
  * (3) On-device memory allocation
  *
- * Hohai University
  */
 
 #ifndef ETHANE_DMPOOL_H

@@ -1,9 +1,5 @@
 /*
- * Disaggregated Persistent Memory File System (ETHANE)
- *
  * Configuration Parser
- *
- * Hohai University
  */
 
 #ifndef ETHANE_CONFIG_H

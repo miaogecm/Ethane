@@ -1,11 +1,3 @@
-/*
- * Disaggregated Persistent Memory File System (ETHANE)
- *
- * Benchmark Utility
- *
- * Hohai University
- */
-
 #ifndef ETHANE_BENCH_H
 #define ETHANE_BENCH_H
 
